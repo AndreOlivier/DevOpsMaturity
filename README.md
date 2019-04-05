@@ -1,65 +1,29 @@
-<h1><a id="DevOpsMaturity_0"></a>DevOpsMaturity</h1>
-<p>This will be a combination of maturity models to be mapped against CMMI V2</p>
-<p>Initial baseline is from Solinea_Inc</p>
-<h1><a id="Culture_5"></a>Culture</h1>
-<h1><a id="Level_1_6"></a>Level 1</h1>
-<ul>
-<li>Uncommunicated Vision</li>
-<li>Restricted Communication</li>
-<li>Sub-Innovation</li>
-</ul>
-<h1><a id="Level_2_11"></a>Level 2</h1>
-<ul>
-<li>Clear Delivery Requirements</li>
-<li>Rapid Intra-Team Communicatiob</li>
-<li>Innovatoin by Necessity</li>
-</ul>
-<h1><a id="Level_3_16"></a>Level 3</h1>
-<ul>
-<li>Articulated Business Goals</li>
-<li>Clear Project Requirements</li>
-<li>Rapid Inter-Team Communication</li>
-<li>Innovation by Design</li>
-</ul>
-<h1><a id="Level_4_22"></a>Level 4</h1>
-<ul>
-<li>Articulated Business Vision</li>
-<li>Clear Product Requirements</li>
-<li>Frequent, Collaborative Communication</li>
-<li>Strategic Innovation</li>
-</ul>
-<h1><a id="Level_5_28"></a>Level 5</h1>
-<ul>
-<li>Articulated Business Strategy</li>
-<li>Clear Business Requirements</li>
-<li>Rapid Feedback</li>
-<li>Ownership Mindset</li>
-</ul>
-<h1><a id="Process_34"></a>Process</h1>
-<h1><a id="Level_1_35"></a>Level 1</h1>
+DevOpsMaturity
+==============
 
+This will be a combination of maturity models to be mapped against CMMI V2
 
+ 
 
+Initial baseline is from Solinea_Inc
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|             | **Level 1 - Initial**           | Agile/Ceremonies - with CMMI link | **Level 2 - Managed**              | Agile/Ceremonies - with CMMI link | **Level 3 - Defined**                         | Agile/Ceremonies - with CMMI link | **Level 4 - Quantitatively Managed**  | Agile/Ceremonies - with CMMI link | **Level 5 - Optimising**      |
+|-------------|---------------------------------|-----------------------------------|------------------------------------|-----------------------------------|-----------------------------------------------|-----------------------------------|---------------------------------------|-----------------------------------|-------------------------------|
+| **Culture** | Un-communicated Vision          |                                   | Clear Delivery Requirements        |                                   | Articulated Business Goals                    |                                   | Articulated Business Vision           |                                   | Articulated Business Strategy |
+|             | Restricted Communication        |                                   | Rapid Intra-Team Communication     |                                   | Clear Project Requirements                    |                                   | Clear Product Requirements            |                                   | Clear Business Requirements   |
+|             | Sub-Innovation                  |                                   | Innovation by Necessity            |                                   | Rapid Inter-Team Communication                |                                   | Frequent, Collaborative Communication |                                   | Rapid Feedback                |
+|             |                                 |                                   |                                    |                                   | Innovation by Design                          |                                   | Strategic Innovation                  |                                   | Ownership Mindset             |
+| **Process** | Manual Processes                |                                   | Simple Scripts                     |                                   | Simple Orchestration                          |                                   |                                       |                                   |                               |
+|             | Inconsistent Project Management |                                   | Project & Requirements Management  |                                   | Integrated Project Management                 |                                   |                                       |                                   |                               |
+|             | Inconsistent Deliveries         |                                   | Scheduled Deliveries               |                                   | Automated Deliveries                          |                                   |                                       |                                   |                               |
+|             | Adhoc Development               |                                   | Scrum Development                  |                                   | Agile Development                             |                                   |                                       |                                   |                               |
+|             | Adhoc Testing                   |                                   | Requirement Based Testing          |                                   | Integrated Testing                            |                                   |                                       |                                   |                               |
+|             | Inconsistent Reporting          |                                   | Tactical Reporting                 |                                   | Consolidated Reporting                        |                                   |                                       |                                   |                               |
+| \-----      | \------                         | \-----                            | \------                            | \------                           | \------                                       | \-----                            | \------                               |                                   | \-----                        |
+| **People**  | Reactive                        |                                   | Working Tickets & Creating Scripts |                                   | Maintaining Scripts & Creating Orchestrations |                                   | Maintaining Orchestrations            |                                   |                               |
+|             | Working Tickets                 |                                   | Teams Organised Around Deliveries  |                                   | Teams Organised Around Projects               |                                   | Teams Organised Around Products       |                                   |                               |
+|             | Teams organised Around Skillset |                                   | In-Level technology Skills         |                                   | In-Level Technology Skills                    |                                   | In-Level Technology Skills            |                                   |                               |
+|             | Tribal Knowledge                |                                   | Written Knowledge                  |                                   | Automation as Documentation                   |                                   | Common Knowledge                      |                                   |                               |
+|             |                                 |                                   |                                    |                                   |                                               |                                   |                                       |                                   |                               |
