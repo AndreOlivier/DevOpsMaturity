@@ -1,5 +1,22 @@
-DevOpsMaturity
-==============
+DevOps Maturity
+===============
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 This will be a combination of maturity models to be mapped against CMMI V2
 
 | Area       | ID  | Initial level (1)                                                           | Repeatable level (2)                                                         | Defined level (3)                                                                           | Managed level (4)                                                                                    | Oprimised level (5)                                                                                           |
@@ -26,4 +43,8 @@ This will be a combination of maturity models to be mapped against CMMI V2
 |            | C2  | Uncommunicated vision                                                       | Clear delivery requirements                                                  | Clear project requirements                                                                  | Clear product/business line requirements                                                             | Clear organisational requirements                                                                             |
 |            | C3  | Lack of awareness as to how culture is impacting day-to-day business        | Aware of aspects in culture that may help or hinder day-to-day business      | Cultural traits that supported business strategies have been identified                     | Culture viewed as an asset to be managed                                                             | Desired elements of the culture are identified, ingrained and sustainable for creating “the way we work here" |
 |            | C4  | Poor, ad-hoc communication                                                  | Managed communication                                                        | Active collaboration                                                                        | Collaboration based on process measurement, which allows to identify bottlenecks and insufficiencies |                                                                                                               |
-|            | C5  | Sub-innovation / no innovation                                              |                                                                              |                                                                                             |                                                                                                      |                                                                                                               |
+|            | C5  | Sub-innovation / no innovation                                              | Innovation by necessity                                                      | Innovation by design                                                                        | Strategic Innovation                                                                                 |                                                                                                               |
+
+ 
+
+ 
