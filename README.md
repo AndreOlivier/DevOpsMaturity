@@ -1,22 +1,6 @@
 DevOps Maturity
 ===============
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 This will be a combination of maturity models to be mapped against CMMI V2
 
 | Area       | ID  | Initial level (1)                                                           | Repeatable level (2)                                                         | Defined level (3)                                                                           | Managed level (4)                                                                                    | Oprimised level (5)                                                                                           |
