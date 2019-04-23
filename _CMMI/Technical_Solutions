@@ -1,0 +1,22 @@
+Technical Solutions		
+		
+SUMMARY		
+"The Technical Solution practices can be applied:
+
+To products or product components
+To services, service systems, and service components
+At any level of the product or service architecture
+When implementing Technical Solution practices, focus on meeting functional and quality requirements. Design and build solutions that meet customer requirements by:
+
+Developing, evaluating, and selecting cost-effective design solutions. These selected design solutions can be called ""design approaches"", ""design concepts"", or ""preliminary designs.""
+Developing designs detailed enough to support implementation of the selected design solutions.
+Implementing the designs as a product, service, or component."		
+		
+TECHNICAL SOLUTIONS (TS)		
+INTENT		
+Design and build solutions that meet customer requirements.		
+		
+VALUE		
+Provides a cost-effective design and solution that meets customer requirements and reduces rework.		
+		
+MATURITY ASSESSMENT		
