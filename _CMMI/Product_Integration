@@ -1,0 +1,6 @@
+Continuous Build / Integration						
+						
+Summary						
+"Continuous build/continuous integration is an approach to continuous testing and product integration popular with agile teams that was first introduced in Extreme Programming
+(XP). CB/CI can be used in any type of software engineering environment and is not limited to agile teams. In a CB/CI environment, an application is built, and unit and (in some cases integration) tested, using automated tools each time new code is “checked-in” to the code management system. It was originally introduced as a companion to “test-driven development (TDD),” a technique in which test cases are written concurrently with user stories."						
+The practice of CB/CI requires a code repository (a major component of any configuration management system) as well as servers and scripts that automatically (and at frequent intervals) collect newly checked-in code, build and compile the system, run automated unit and integration tests, and publish the results. An extension of CB/CI is to automatically deploy the built system to a test or sometimes even a production environment (this extension is not common). CB/CI can benefit from these practices contained in Verification, Technical Solution, Product Integration, and Configuration Management.						
