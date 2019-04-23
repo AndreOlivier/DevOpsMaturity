@@ -1,0 +1,136 @@
+Summary						
+"Planning for configuration management activities includes controlling work products developed or modified by the project.
+
+The work products placed under configuration management include:
+
+Baselines represent an approved version of a work product. They are intended to provide a clear and accurate understanding of the work product for future use. Add baselines to the configuration management system as they are developed. Systematically monitor and control changes to baselines and work products using:
+
+Configuration identification
+Configuration control
+Change management
+Configuration auditing functions of configuration management"						Example of work products that can be placed under configuration management may include
+						
+						
+CONFIGURATION MANAGEMENT (CM)						
+INTENT						
+Manage the integrity of work products using configuration identification, version control, change control, and audits.						
+						
+						
+VALUE						
+Reduces loss of work and increases the ability to deliver the correct version of the solution to the customer.						
+						
+LEVEL	VALUE	Agile Ceromonies / Practises	People	Technology		
+LEVEL 1						
+CM 1.1						
+Perform version control.	Increases customer satisfaction by ensuring that the correct solutions is delivered	List the work products to be placed under version control and keep it updated.				
+						
+LEVEL 2						
+CM 2.1						Example:
+Identify items to be placed under configuration management.	Reduces risk of rework and ensures that the right version is delivered to the customer.	Assign unique identifiers to configuration items.				Identified confirguation items
+		"Describe the important
+characteristics for each
+configuration item."				
+		"Specify when each item is placed under configuration
+management."				
+CM 2.2						
+Develop, keep updated, and use a configuration and change management system.	Reduces the cost and effort needed to control the integrity of work products and solutions.	"Describe how the items and
+changes to them are
+controlled, used, and
+managed throughout the
+solution lifecycle."				A Configuration management system:
+		Establish methods to manage multiple levels of control.				
+		"Provide access control to
+ensure authorized access to the configuration
+management system."				
+		"Store and retrieve
+configuration items in the configuration management system."				
+		Preserve the contents of the configuration management system.				
+		"Update the configuration
+management system as
+necessary."				
+CM 2.3						
+Develop or release baselines for internal use or for delivery to the customer.	Ensures the integrity of the work products.	"Obtain authorization or
+approval before developing or releasing baselines of configuration items."				
+		"Develop or release baselines only from configuration items
+in the configuration
+management system."				
+		"Record the set of
+configuration items contained in a baseline."				
+		"Make the current set of
+baselines available."				
+CM 2.4						
+Manage changes to the items under configuration management.	Reduces costs and schedule impacts by ensuring that only authorized changes are made.	"Initiate and record change requests.
+Typically includes:
+
+Changes to requirements
+Failures and defects in work products
+Needs from stakeholders, end users, and customers
+Description of the impact to work products and solutions"				
+		"Analyze the impact of change
+requests.
+
+Analysis should consider impacts to:
+Technical and project requirements
+Impact beyond the immediate project or contract
+requirements
+Impact on release plans
+Cost
+Schedule
+Quality
+Functionality
+Commitments"				
+		"Categorize and prioritize
+change requests.
+
+Typically includes:
+Allowing for emergency changes
+Allocating changes to future baselines"				
+		"Review and get agreement
+on change requests to be
+addressed in the next
+baseline with affected
+stakeholders."				
+		"Track the status of change
+requests to closure."				
+		"Incorporate changes in a
+manner that maintains
+integrity.
+Examples of check-in and check-out include:
+Confirming the revisions are authorized
+Updating the configuration items
+Maintaining versions of work products
+Archiving the replaced baseline and retrieving the new
+baseline
+Commenting on the changes made
+Assigning changes to related work products"				
+CM 2.5						
+Develop, keep updated, and use records describing items under configuration management.	Accurate descriptions of the configuration items and status of changes enables reduction of rework.	"Record configuration
+management actions in
+sufficient detail so the content and status of each configuration item is known and previous versions can be recovered."				
+		"Ensure that affected
+stakeholders have access to and knowledge of the
+configuration status of
+configuration items."				
+		"Specify the differences
+among previous, related, and latest versions of baselines."				
+CM 2.6						
+"Perform configuration audits to maintain the integrity of configuration baselines, changes, and content of
+the configuration management system."	"Increases customer satisfaction and stakeholder acceptance by ensuring that the customer receives the
+agreed-on and correct versions of work products and solutions."	"Assess the integrity of
+baselines and generate
+action items to address
+identified issues.
+Examples include:
+Physical work product reviews verifying changes
+Functional work product reviews verifying changes
+Comparison of approved changes versus actual changes
+made in a work product"				
+		"Confirm integrity of
+configuration management
+records."				
+		"Review the structure and
+integrity of items in the
+configuration management
+system."				
+		"Record action items and track
+them to closure."				
