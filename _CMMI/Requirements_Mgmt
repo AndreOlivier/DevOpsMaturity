@@ -1,0 +1,51 @@
+REQUIREMENTS DEVELOPMENT AND MANAGEMENT (RDM)		
+		
+Summary		
+"This practice area describes three types of requirements:
+1. Customer or business requirements
+2. Solution requirements
+3. Interface or connection requirements
+Taken together, these requirements address the needs of stakeholders, including needs pertinent to
+various lifecycle phases and attributes (e.g., responsiveness, security, quality). Requirements can also
+include constraints.
+All projects have requirements. Requirements are the basis for developing the right solutions.
+Developing requirements includes:
+Eliciting, analyzing, validating, and communicating customer needs, expectations, and constraints
+Prioritizing customer requirements to understand what will satisfy stakeholders given resource
+constraints
+Developing the lifecycle requirements of the solution
+Developing operational concepts and scenarios
+Developing the customer functional and quality attribute requirements, including descriptions,
+decompositions, and allocating requirements to functions
+Developing initial solution requirements consistent with customer requirements
+Customer requirements are further refined into solution and interface or connection requirements. In
+addition to customer requirements, solution and interface or connection requirements are derived from
+the selected design solutions.
+Identify and refine requirements throughout the project. Analyze design decisions, subsequent corrective
+actions, and feedback for impact on requirements. Analyses can be used to understand, define, and
+select the requirements."		
+"In addition, the definition may specify design constraints. Some quality attributes will emerge as
+architecturally significant and drive the development of the solution architecture. Quality attributes may
+address:
+Solution availability
+Ability to sustain and maintain
+Timeliness, throughput, and responsiveness
+Consistency
+Security
+Scalability
+Analyses are iterated until there is enough detail to develop the solution or a portion of the solution.
+Analysis of requirements and the operational concepts and scenarios may result in identifying more
+requirements, including:
+Constraints of various types
+Technological limitations
+Costs
+Time constraints
+Risks
+Functionality, support, and maintenance concerns
+Issues implied but not explicitly stated by the customer"		
+		
+INTENT		
+"Elicit requirements, ensure common understanding by stakeholders, and align requirements, plans, and work
+products."		
+VALUE		
+Ensures that customer's needs and expectations are satisfied.		
