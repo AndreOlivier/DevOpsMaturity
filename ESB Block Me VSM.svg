@@ -1,0 +1,165 @@
+<svg version="1.1" x="0" y="0" id="jv232ji62" diagram-revision="3" width="435" height="315" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Customer / Supplier-jv232ji6-ko109" transform="translate(350,5)">
+    <desc>root/valueStreamMapping/customer_Supplier?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <polygon vector-effect="non-scaling-stroke" fill="#f3b562" stroke="#f3b562" points="0,23.9 27,0 27,23.9 53.3,0 53.3,23.9 80,0 &#xD;&#xA;&#x9;80,70 0,70 " style="stroke-width:1.5;fill:#f3b562;stroke:#f3b562;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="76" height="35" transform="translate(2,30)">
+      <tspan x="13.05" y="15.170019531249999" style="font-family:Lato;font-size:14px;fill:#ffffff;">Supplier</tspan>
+    </text>
+  </g>
+  <g id="Process Dedicated-jv232ji6-ko110" transform="translate(5,200)">
+    <desc>root/valueStreamMapping/processDedicated?version=3&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="127.5" height="107.5" fill="#ffffff" stroke="#00a388" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M 0.75 40.25 L 128.25 40.25 " fill="none" stroke="#00a388" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <text x="0" y="0" width="52.1" height="16.75" transform="translate(37.7,12.35)">
+        <tspan x="5" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">Process</tspan>
+      </text>
+      <text x="0" y="0" width="67.35" height="16.75" transform="translate(30.05,43)">
+        <tspan x="5" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">Resources</tspan>
+      </text>
+    </g>
+  </g>
+  <g id="Process Dedicated-jv232ji6-ko112" transform="translate(225,200)">
+    <desc>root/valueStreamMapping/processDedicated?version=3&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="127.5" height="107.5" fill="#ffffff" stroke="#00a388" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M 0.75 40.25 L 128.25 40.25 " fill="none" stroke="#00a388" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <text x="0" y="0" width="52.1" height="16.75" transform="translate(37.7,12.35)">
+        <tspan x="5" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">Process</tspan>
+      </text>
+      <text x="0" y="0" width="67.35" height="16.75" transform="translate(30.05,43)">
+        <tspan x="5" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">Resources</tspan>
+      </text>
+    </g>
+  </g>
+  <creately-doc projectid="pjv23am21" sync="false" id="jv232ji62" format-version="1.0" owner-name="Andre Olivier" revision="4" updated-user="Andre Olivier">
+    <koDefIDList>
+      <def-ID>root/valueStreamMapping/processDedicated?version=3&amp;author=Cinergix</def-ID>
+      <def-ID>root/valueStreamMapping/customer_Supplier?version=2&amp;author=Cinergix</def-ID>
+    </koDefIDList>
+    <revisionUserId>11D3B64D-210C-4E8E-2423-C9087231364C</revisionUserId>
+    <canvas-width>1500</canvas-width>
+    <creatorUid>11D3B64D-210C-4E8E-2423-C9087231364C</creatorUid>
+    <comments/>
+    <objects>
+      <object locked="false" name="" model-type="CONTAINER" zorder="2" visible="true" type="NORMAL" id="Process Dedicated-jv232ji6-ko112">
+        <group-id/>
+        <children/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="COVER">
+          <content>Process(~!nl!~)--(~!nl!~)Resources(~!nl!~)//This is a comment(~!nl!~)// -- This is a section break</content>
+          <text-formats>
+            <text-format kerning="false" end-index="-1" indent="0" size="14" display="block" leading="0" font="Lato" under-line="false" block-indent="0" bold="false" bullet="false" italic="false" letter-spacing="0" order="0" right-margin="0" color="4934475" left-margin="0" align="center" begin-index="-1">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item name="DiagramLinkURL" type="" value=""/>
+          <data-item name="classStyle" type="" value="Custom"/>
+          <data-item name="classData" type="" value="Process(~!nl!~)--(~!nl!~)Resources(~!nl!~)//This is a comment(~!nl!~)// -- This is a section break"/>
+        </data-items>
+        <kobject-def-id>root/valueStreamMapping/processDedicated?version=3&amp;author=Cinergix</kobject-def-id>
+        <style line-style="" fill="true" fill-color="16777215" fill-gradient="GRADIENT_FILL_SOLID" line-thickness="1.5" line-color="41864" alpha="1"/>
+        <dimension x="585" scale-x="Infinity" y="625" angle="0" scale-y="Infinity" width="129.5" height="109.5">
+          <matrix b="0" d="1" c="0" ty="0" a="1" tx="0"/>
+          <default-bounds x="0" y="0" width="129.5" height="109.5"/>
+        </dimension>
+        <collapse expanded-width="NaN" collapsed-x-pos="NaN" expanded-height="NaN" collapsed-y-pos="NaN" collapsed="false" collapsed-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-y-pos="NaN"/>
+        <libraries/>
+        <container-id/>
+      </object>
+      <object locked="false" name="" model-type="CONTAINER" zorder="0" visible="true" type="NORMAL" id="Customer / Supplier-jv232ji6-ko109">
+        <group-id/>
+        <children/>
+        <comments/>
+        <text wrapping="true" text-rotation="NaN" position="posText">
+          <content>Supplier</content>
+          <text-formats>
+            <text-format kerning="false" end-index="-1" indent="0" size="14" display="block" leading="0" font="Lato" under-line="false" block-indent="0" bold="false" bullet="false" italic="false" letter-spacing="0" order="0" right-margin="0" color="16777215" left-margin="0" align="center" begin-index="-1">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item name="Name" type="" value="Supplier"/>
+          <data-item name="DiagramLinkURL" type="" value=""/>
+        </data-items>
+        <kobject-def-id>root/valueStreamMapping/customer_Supplier?version=2&amp;author=Cinergix</kobject-def-id>
+        <style line-style="" fill="true" fill-color="15971682" fill-gradient="GRADIENT_FILL_SOLID" line-thickness="1.5" line-color="15971682" alpha="1"/>
+        <dimension x="710" scale-x="1" y="430" angle="0" scale-y="1" width="80" height="70">
+          <matrix b="0" d="1" c="0" ty="0" a="1" tx="0"/>
+          <default-bounds x="0" y="0" width="80" height="70"/>
+        </dimension>
+        <collapse expanded-width="NaN" collapsed-x-pos="NaN" expanded-height="NaN" collapsed-y-pos="NaN" collapsed="false" collapsed-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-y-pos="NaN"/>
+        <libraries/>
+        <container-id/>
+      </object>
+      <object locked="false" name="" model-type="CONTAINER" zorder="1" visible="true" type="NORMAL" id="Process Dedicated-jv232ji6-ko110">
+        <group-id/>
+        <children/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="COVER">
+          <content>Process(~!nl!~)--(~!nl!~)Resources(~!nl!~)//This is a comment(~!nl!~)// -- This is a section break</content>
+          <text-formats>
+            <text-format kerning="false" end-index="-1" indent="0" size="14" display="block" leading="0" font="Lato" under-line="false" block-indent="0" bold="false" bullet="false" italic="false" letter-spacing="0" order="0" right-margin="0" color="4934475" left-margin="0" align="center" begin-index="-1">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item name="DiagramLinkURL" type="" value=""/>
+          <data-item name="classStyle" type="" value="Custom"/>
+          <data-item name="classData" type="" value="Process(~!nl!~)--(~!nl!~)Resources(~!nl!~)//This is a comment(~!nl!~)// -- This is a section break"/>
+        </data-items>
+        <kobject-def-id>root/valueStreamMapping/processDedicated?version=3&amp;author=Cinergix</kobject-def-id>
+        <style line-style="" fill="true" fill-color="16777215" fill-gradient="GRADIENT_FILL_SOLID" line-thickness="1.5" line-color="41864" alpha="1"/>
+        <dimension x="365" scale-x="Infinity" y="625" angle="0" scale-y="Infinity" width="129.5" height="109.5">
+          <matrix b="0" d="1" c="0" ty="0" a="1" tx="0"/>
+          <default-bounds x="0" y="0" width="129.5" height="109.5"/>
+        </dimension>
+        <collapse expanded-width="NaN" collapsed-x-pos="NaN" expanded-height="NaN" collapsed-y-pos="NaN" collapsed="false" collapsed-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-y-pos="NaN"/>
+        <libraries/>
+        <container-id/>
+      </object>
+    </objects>
+    <canvas-height>1500</canvas-height>
+    <libraries>
+      <lib-ID>
+        <id>value-stream-map</id>
+      </lib-ID>
+    </libraries>
+    <diagramTypeId>vsm</diagramTypeId>
+    <resources/>
+    <inSync>false</inSync>
+    <docname>ESB Block Me VSM</docname>
+    <save-type/>
+    <kodefs/>
+    <date-updated>Mon Apr 29 2019 10:18:57 AM</date-updated>
+    <editHash/>
+    <notes/>
+    <published>false</published>
+    <connectors/>
+    <creator/>
+    <embedHash>INyWEw1mBgXPpqj2Y2uTHXRX6k=</embedHash>
+    <tags>vsm,value,stream,mapping,lean manufacturing</tags>
+    <revision-user>olivieraj@me.com</revision-user>
+    <viewHash/>
+    <source-tool/>
+    <save-comments/>
+    <description>DevOps analysis</description>
+    <app-version/>
+    <date-created>Mon Apr 29 2019 10:18:57 AM</date-created>
+    <dtLastEdit>LAST_EDIT_CREATION</dtLastEdit>
+  </creately-doc>
+</svg>
